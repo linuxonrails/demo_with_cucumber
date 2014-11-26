@@ -13,7 +13,7 @@ I want to login and logout
 @current
 	Scenario: Don't show link to the login page when we are not logged in
 		Given I am logged in
-		 When I am on the home page page
+		 When I am on the home page
 		 Then I should not see "Log in"
 
 	# Comprobaciones básicas: título y descripción

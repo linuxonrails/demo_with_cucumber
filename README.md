@@ -1,11 +1,15 @@
 # Demo para Testeo web con Cucumber
 
+Presentación:
+
+http://slides.com/linuxonrails/testeo-web-con-cucumber/
+
 ## 0. Prerequisitos.
 
 Instala PHP para la probar los ejemplos en PHP y gnupg para una instalación segura de RVM:
 
 ```sh
-$ sudo apg-get install php gpg # para ubuntu; con fedora utiliza yum
+$ sudo apt-get install php gpg # para ubuntu; con fedora utiliza yum
 ```
 
 ## 1. Descarga e instala RVM
