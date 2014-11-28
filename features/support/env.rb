@@ -10,7 +10,6 @@ require 'unicode_utils'
 require 'date'
 require 'cgi'
 require 'nokogiri'
-# require_relative 'parse_data'
 
 if ENV['KILL_OLD_WEBKIT_SERVER'] == 'true'
 	# matar webkit_servers que hayan en ejecución para evitar errores extraños
