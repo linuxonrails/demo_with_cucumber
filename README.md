@@ -3,6 +3,9 @@
 Presentación:
 
 http://slides.com/linuxonrails/testeo-web-con-cucumber/
+https://github.com/linuxonrails/demo_with_cucumber/raw/master/testeo-web-con-cucumber.pdf
+testeo-web-con-cucumber.pdf
+
 
 ## 0. Prerequisitos.
 
